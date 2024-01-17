@@ -1,0 +1,2 @@
+add_library(FibonacciQueue src/fibonacci_queue.cpp)
+target_include_directories(FibonacciQueue PUBLIC include)
